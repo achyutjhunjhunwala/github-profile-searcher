@@ -1,5 +1,5 @@
 {
-  "name": "Github User Info Getter",
+  "name": "GithubProfileSearcher",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
